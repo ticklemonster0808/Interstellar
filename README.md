@@ -65,7 +65,7 @@ bun i
 bun start
 ```
 
-#### pnpm
+#### pnpm i pnpm start
 
 If you are using pnpm, run the following commands:
 
